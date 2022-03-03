@@ -40,8 +40,7 @@ const defaultMenu = {
 │
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
-│ Github:
-│ github.com/Lord-Ammar/lordbot-v2
+│ Github: ............
 ╰─回
 %readmore`.trimStart(),
   header: '╭─回「 %category 」',
